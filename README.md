@@ -11,4 +11,6 @@ Contribution Guide:
 
 (3) Any other contribution you want to make that you feel can be engaging to users you can open an issue to discuss.
 
+(4) Along with the Pull Request please attach a screenshot that reflects the changes you have made.
+
 
